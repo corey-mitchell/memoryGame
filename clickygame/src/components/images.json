@@ -1,49 +1,49 @@
 [{
         "name": "img1",
-        "url": "./images/gameImages/img1.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141379-256ab180-d286-11e8-8793-71e321ee9c09.jpg"
     },
     {
         "name": "img2",
-        "url": "./images/gameImages/img2.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141381-256ab180-d286-11e8-9364-7e6154ccb826.jpg"
     },
     {
         "name": "img3",
-        "url": "./images/gameImages/img3.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141382-256ab180-d286-11e8-96e5-1617ada1046a.jpg"
     },
     {
         "name": "img4",
-        "url": "./images/gameImages/img4.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141383-256ab180-d286-11e8-8bf1-b8bf504df253.jpg"
     },
     {
         "name": "img5",
-        "url": "./images/gameImages/img5.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141384-256ab180-d286-11e8-8d20-8d97ef181b09.jpg"
     },
     {
         "name": "img6",
-        "url": "./images/gameImages/img6.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141385-256ab180-d286-11e8-83b5-fa804112cd2a.jpg"
     },
     {
         "name": "img7",
-        "url": "./images/gameImages/img7.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141386-26034800-d286-11e8-884a-f8de34330e27.jpg"
     },
     {
         "name": "img8",
-        "url": "./images/gameImages/img8.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141387-26034800-d286-11e8-8fa5-412b1d8e424d.jpg"
     },
     {
         "name": "img9",
-        "url": "./images/gameImages/img9.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141389-26034800-d286-11e8-926d-880553d337fa.jpg"
     },
     {
         "name": "img10",
-        "url": "./images/gameImages/img10.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141390-26034800-d286-11e8-9ee3-f5323d93c5e0.jpg"
     },
     {
         "name": "img11",
-        "url": "./images/gameImages/img11.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141392-26034800-d286-11e8-8b5a-9246b445acc9.jpg"
     },
     {
         "name": "img12",
-        "url": "./images/gameImages/img12.jpg"
+        "url": "https://user-images.githubusercontent.com/37916145/47141395-269bde80-d286-11e8-9a75-01e372f1017d.jpg"
     }
 ]
