@@ -4,7 +4,7 @@ const Navbar = (props) => (
     <nav className="navbar navbar-expand-lg">
         <ul className="navbar-nav">
             <li className="brand">
-                <a href='/'>Clicky Game</a>
+                <a href='/'>Gorillaz Memory Game</a>
             </li>
             <li>
                 {props.message}

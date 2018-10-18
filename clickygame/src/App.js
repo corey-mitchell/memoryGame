@@ -8,6 +8,7 @@ import Image from './components/Images';
 import Img from './components/images.json';
 import Footer from './components/Footer';
 // Import Images
+// I wanna get rid of all of these image imports, but for now I can't get the source to load without them.
 import img1 from './images/gameImages/img1.jpg';
 import img2 from './images/gameImages/img2.jpg';
 import img3 from './images/gameImages/img3.jpg';
@@ -32,7 +33,7 @@ class App extends Component {
     message: 'Click an image to begin!'
   };
 
-  // Shuffle Images
+  // Shuffles Images
   shuffleArray = (array) => {
     let imgArray = Img;
     for (let i = imgArray.length - 1; i > 0; i--) {
@@ -46,7 +47,7 @@ class App extends Component {
   imgSwitch = (name) => {
     switch (name) {
       case "img1":
-        return `${img1}`;
+        return `${Img[0].url}`;
       case "img2":
         return `${img2}`;
       case "img3":
@@ -71,6 +72,29 @@ class App extends Component {
         return `${img12}`;
       default:
         return `${img1}`
+    }
+  }
+
+  // Handles image clickes
+  pickImg = (name) => {
+    // console.log("image clicked");
+    let picked = this.state.picked;
+    
+    if (picked.indexOf(name) === -1) {
+      this.setState({
+        picked: picked.concat(name),
+        correct: this.state.correct + 1,
+        topscore: this.state.correct + 1 > this.state.topscore ? this.state.correct + 1 : this.state.topscore,
+        message: "Correct: Good choice!" 
+      })
+      this.shuffleArray();
+    }
+    else {
+      this.setState({
+        message: "Incorrect: Play again?",
+        correct: 0,
+        picked: []
+      })
     }
   }
 
