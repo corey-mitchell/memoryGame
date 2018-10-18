@@ -1,4 +1,49 @@
 [{
-    "name": "img1",
-    "url": "./images/gameImages/img1.jpg"
-}]
+        "name": "img1",
+        "url": "./images/gameImages/img1.jpg"
+    },
+    {
+        "name": "img2",
+        "url": "./images/gameImages/img2.jpg"
+    },
+    {
+        "name": "img3",
+        "url": "./images/gameImages/img3.jpg"
+    },
+    {
+        "name": "img4",
+        "url": "./images/gameImages/img4.jpg"
+    },
+    {
+        "name": "img5",
+        "url": "./images/gameImages/img5.jpg"
+    },
+    {
+        "name": "img6",
+        "url": "./images/gameImages/img6.jpg"
+    },
+    {
+        "name": "img7",
+        "url": "./images/gameImages/img7.jpg"
+    },
+    {
+        "name": "img8",
+        "url": "./images/gameImages/img8.jpg"
+    },
+    {
+        "name": "img9",
+        "url": "./images/gameImages/img9.jpg"
+    },
+    {
+        "name": "img10",
+        "url": "./images/gameImages/img10.jpg"
+    },
+    {
+        "name": "img11",
+        "url": "./images/gameImages/img11.jpg"
+    },
+    {
+        "name": "img12",
+        "url": "./images/gameImages/img12.jpg"
+    }
+]

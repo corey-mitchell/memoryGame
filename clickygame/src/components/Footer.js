@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => (
     <footer className="footer">
         <div className="bottom">
-            Clicky Game
+           Gorillaz Memory Game
         </div>
     </footer>
 );
