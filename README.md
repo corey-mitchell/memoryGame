@@ -8,7 +8,7 @@ A simple, but addictive, Gorillaz centered memory game built using React.
 
 ## Demo
 
-You may try out a demo version [here.](https://gorillaz-memory-game.herokuapp.com/)
+You may try out a demo version [here.](https://corey-mitchell.github.io/memoryGame/)
 
 ## Running Locally
 
