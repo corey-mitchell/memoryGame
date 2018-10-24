@@ -30,4 +30,4 @@ yarn start
 
 ## Author
 
-* **Corey Mitchell** - *React* - (https://github.com/corey-mitchell)
+* **Corey Mitchell** - (https://github.com/corey-mitchell)
